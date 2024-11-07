@@ -6,3 +6,5 @@
 - 道の真ん中をきれいにするプロジェクトマネジメント～イケてるチームになるための10原則～
   - https://qiita.com/yasuoyasuo/items/37cc24440b278363339e
 
+- IPAの非機能要求グレード
+  - https://www.ipa.go.jp/archive/digital/iot-en-ci/jyouryuu/hikinou/index.html
